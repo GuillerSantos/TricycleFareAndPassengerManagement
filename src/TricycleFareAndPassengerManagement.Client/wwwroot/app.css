@@ -8,7 +8,7 @@ html, body {
 }
 
 .app-bar {
-    background: linear-gradient(to right, #4F46E5, #8B5CF6); 
+    background: linear-gradient(to right, #388E3C, #66BB6A);
     color: white;
     font-weight: 600;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);

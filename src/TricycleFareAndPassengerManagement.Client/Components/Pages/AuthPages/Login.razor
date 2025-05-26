@@ -15,27 +15,21 @@
 else
 {
     <div class="min-h-screen flex">
-        <div class="hidden lg:flex lg:w-1/2 xl:w-3/5 relative overflow-hidden">
-            <div class="absolute inset-0 bg-cover bg-center bg-no-repeat"
-                 style="background-image: url('Images/TFPM.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 100vh;">
+        <div class="hidden lg:flex lg:w-1/2 xl:w-3/5 relative overflow-hidden mt-10">
+            <div class="absolute inset-0 bg-fit bg-center bg-no-repeat"
+                 style="background-image: url('Images/TFPM.jpg'); height: 100vh; width: 50vw ">
             </div>
         </div>
 
-        <div class="w-full lg:w-1/2 xl:w-2/5 flex items-center justify-center bg-gradient-to-br from-slate-50 to-blue-50 p-6 sm:p-8 lg:p-12">
+        <div class="w-full lg:w-1/2 xl:w-2/5 flex items-center justify-center p-6 sm:p-8 lg:p-12">
             <div class="w-full max-w-md space-y-8">
                 <div class="text-center">
                     <div class="mx-auto w-16 h-16 flex items-center justify-center mb-6">
-                        <MudIcon Icon="@Icons.Material.Filled.Lock" Color="Color.Primary" Size="Size.Large" Class="text-white" />
+                        <MudIcon Icon="@Icons.Material.Filled.Lock" Color="Color.Success" Size="Size.Large" Class="text-white" />
                     </div>
                     <h2 class="text-3xl font-bold text-gray-900 mb-2">
                         Sign in to your account
                     </h2>
-                    <p class="text-sm text-gray-600">
-                        Or
-                        <MudLink Href="/register" Class="font-semibold text-indigo-600 hover:text-indigo-500 ml-1 transition-colors">
-                            Sign Up
-                        </MudLink>
-                    </p>
                 </div>
 
                 <!-- Login Form Card -->
@@ -53,7 +47,7 @@ else
                                                   InputType="InputType.Email"
                                                   Adornment="Adornment.Start"
                                                   AdornmentIcon="@Icons.Material.Filled.Email"
-                                                  AdornmentColor="Color.Primary"
+                                                  AdornmentColor="Color.Success"
                                                   FullWidth="true"
                                                   For="@(() => loginModel.Email)" />
                                 </div>
@@ -66,7 +60,7 @@ else
                                                   InputType="@ShowPasswordUtil.InputType"
                                                   Adornment="Adornment.End"
                                                   AdornmentIcon="@ShowPasswordUtil.Icon"
-                                                  AdornmentColor="Color.Primary"
+                                                  AdornmentColor="Color.Success"
                                                   OnAdornmentClick="ShowPasswordUtil.Toggle"
                                                   FullWidth="true"
                                                   For="@(() => loginModel.Password)" />
@@ -88,11 +82,12 @@ else
                                 <!-- Sign In Button -->
                                 <MudButton ButtonType="ButtonType.Submit"
                                            Variant="Variant.Filled"
-                                           Color="Color.Primary"
+                                           Color="Color.Success"
                                            Size="Size.Large"
-                                           Class="w-full h-12 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transform transition-all duration-200 hover:scale-[1.02]">
-                               Sign In
-                                       </MudButton>
+                                           Class="w-full h-12 bg-gradient-to-r from-green-800 to-green-600 hover:from-green-900 hover:to-green-700 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transform transition-all duration-200 hover:scale-[1.02]">
+                                    Sign In
+                                </MudButton>
+
                             </div>
                         </EditForm>
                     </MudCardContent>
