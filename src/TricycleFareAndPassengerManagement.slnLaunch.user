@@ -1,6 +1,6 @@
 [
   {
-    "Name": "New Profile",
+    "Name": "Start Client and Server",
     "Projects": [
       {
         "Path": "TricycleFareAndPassengerManagement.Api\\TricycleFareAndPassengerManagement.Api.csproj",

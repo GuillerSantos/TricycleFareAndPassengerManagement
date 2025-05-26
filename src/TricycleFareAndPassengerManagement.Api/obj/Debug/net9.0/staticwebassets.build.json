@@ -1,1 +1,12 @@
-{"Version":1,"Hash":"wdSuUto9WJN+bhzAwETR3cRg44K3Q7EfpvLla9fKzp4=","Source":"TricycleFareAndPassengerManagement.Api","BasePath":"_content/TricycleFareAndPassengerManagement.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "wdSuUto9WJN+bhzAwETR3cRg44K3Q7EfpvLla9fKzp4=",
+  "Source": "TricycleFareAndPassengerManagement.Api",
+  "BasePath": "_content/TricycleFareAndPassengerManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

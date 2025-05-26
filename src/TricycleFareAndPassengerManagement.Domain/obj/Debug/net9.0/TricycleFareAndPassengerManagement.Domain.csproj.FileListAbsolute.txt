@@ -24,3 +24,16 @@ C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManag
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\refint\TricycleFareAndPassengerManagement.Domain.dll
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.pdb
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\ref\TricycleFareAndPassengerManagement.Domain.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.deps.json
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.pdb
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.AssemblyInfo.cs
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.sourcelink.json
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\refint\TricycleFareAndPassengerManagement.Domain.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.pdb
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Domain\obj\Debug\net9.0\ref\TricycleFareAndPassengerManagement.Domain.dll

@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using TricycleFareAndPassengerManagement.Domain.Entities;
 
 namespace TricycleFareAndPassengerManagement.Application.Features.Driver.Commands
 {

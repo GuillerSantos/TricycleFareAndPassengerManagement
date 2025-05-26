@@ -30,3 +30,19 @@ C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManag
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\refint\TricycleFareAndPassengerManagement.Application.dll
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.pdb
 C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\ref\TricycleFareAndPassengerManagement.Application.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Application.deps.json
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Application.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Application.pdb
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\bin\Debug\net9.0\TricycleFareAndPassengerManagement.Domain.pdb
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.csproj.AssemblyReference.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.AssemblyInfoInputs.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.AssemblyInfo.cs
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.sourcelink.json
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\Tricycle.A7E83CF9.Up2Date
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\refint\TricycleFareAndPassengerManagement.Application.dll
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\TricycleFareAndPassengerManagement.Application.pdb
+C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Application\obj\Debug\net9.0\ref\TricycleFareAndPassengerManagement.Application.dll

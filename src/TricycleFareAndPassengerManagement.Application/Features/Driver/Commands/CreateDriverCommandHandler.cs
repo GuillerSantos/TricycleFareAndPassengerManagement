@@ -29,7 +29,8 @@ namespace TricycleFareAndPassengerManagement.Application.Features.Driver.Command
                 FullName = request.FullName,
                 LicenseNumber = request.LicenseNumber,
                 PhoneNumber = request.PhoneNumber,
-                TricycleNumber = request.TricycleNumber
+                TricycleNumber = request.TricycleNumber,
+            
             };
 
             _context.Drivers.Add(driver);

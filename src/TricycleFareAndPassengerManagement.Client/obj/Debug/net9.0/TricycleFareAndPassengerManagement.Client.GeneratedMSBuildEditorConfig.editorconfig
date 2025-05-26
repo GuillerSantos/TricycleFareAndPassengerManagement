@@ -12,77 +12,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TricycleFareAndPassengerManagement.Client
 build_property.RootNamespace = TricycleFareAndPassengerManagement.Client
-build_property.ProjectDir = C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Client\
+build_property.ProjectDir = C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projects\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Client
+build_property.MSBuildProjectDirectory = C:\Users\i7\Desktop\C# FILES\TricycleFareAndPassengerManagement\src\TricycleFareAndPassengerManagement.Client
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/App.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Dialogs/PassengerDialog.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Dialogs/DriversDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFsb2dzXERyaXZlcnNEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Dialogs/PassengerDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFsb2dzXFBhc3NlbmdlckRpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Dialogs/TripDialog.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Dialogs/TripDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFsb2dzXFRyaXBEaWFsb2cucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/AuthLayout.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/AuthLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQXV0aExheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/DefaultUserLayout.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/DefaultUserLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRGVmYXVsdFVzZXJMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AdminPages/AdminDashboard.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AdminPages/AdminDashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblBhZ2VzXEFkbWluRGFzaGJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AuthPages/Login.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AdminPages/Drivers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblBhZ2VzXERyaXZlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AdminPages/Reports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblBhZ2VzXFJlcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AuthPages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoUGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AuthPages/Register.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/AuthPages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoUGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/Passengers.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/Passengers.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWZhdWx0VXNlclBhZ2VzXFBhc3NlbmdlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/Trips.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/Trips.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWZhdWx0VXNlclBhZ2VzXFRyaXBzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/UserDashboard.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/DefaultUserPages/UserDashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWZhdWx0VXNlclBhZ2VzXFVzZXJEYXNoYm9hcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/Error.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Routes.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/_Imports.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/MainLayout.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-8bzk26b8m2
 
-[C:/Projects/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Shared/Loader.razor]
+[C:/Users/i7/Desktop/C\# FILES/TricycleFareAndPassengerManagement/src/TricycleFareAndPassengerManagement.Client/Shared/Loader.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-0unf1xqqrk

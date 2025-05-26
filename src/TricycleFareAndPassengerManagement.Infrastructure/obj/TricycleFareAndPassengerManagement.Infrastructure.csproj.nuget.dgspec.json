@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj": {}
+    "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj": {
+    "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj",
         "projectName": "TricycleFareAndPassengerManagement.Application",
-        "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\obj\\",
+        "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
-                "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj"
+              "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -75,24 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
+    "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj",
         "projectName": "TricycleFareAndPassengerManagement.Domain",
-        "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\obj\\",
+        "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,6 +102,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +121,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -146,24 +148,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj": {
+    "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj",
         "projectName": "TricycleFareAndPassengerManagement.Infrastructure",
-        "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\TricycleFareAndPassengerManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -172,17 +174,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj": {
-                "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj"
+              "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Application\\TricycleFareAndPassengerManagement.Application.csproj"
               },
-              "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
-                "projectPath": "C:\\Projects\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj"
+              "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\i7\\Desktop\\C# FILES\\TricycleFareAndPassengerManagement\\src\\TricycleFareAndPassengerManagement.Domain\\TricycleFareAndPassengerManagement.Domain.csproj"
               }
             }
           }
@@ -197,7 +200,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -260,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
