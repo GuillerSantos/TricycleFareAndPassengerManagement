@@ -6,6 +6,8 @@
 @inject IReportClientService Report
 @inject ISnackbar Snackbar
 @inject IJSRuntime JSRuntime
+@attribute [Authorize]
+
 @rendermode InteractiveServer
 
 @if (isLoading || !hasRendered)
